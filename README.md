@@ -1,5 +1,3 @@
-#OpenAccess, now what? -- hackathon idea for MCN2017
-
 Many institutions have been releasing their collections on GitHub and sharing APIs over the last few years.
 
 I'd like to propose a hackathon format where museum technologists can get their hands on real-life datasets from other museums and share their experience dealing with open data.
@@ -20,7 +18,8 @@ A #MCN50/#MCN2017 data hackathon for museum technologists @MuseumCN.
 
 ## Format
 
-a full day or half-day hackathon with a follow-up session during the conference to present the results
+- a full day or half-day hackathon before the conference
+- a follow-up session during the conference to present the results
 
 in [others](http://mcn.edu/category-unpacked-mcn2017-call-proposals/) category
 
