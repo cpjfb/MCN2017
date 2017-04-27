@@ -69,8 +69,9 @@ Either:
 ## Lightning talks and expression of interest to participate in this hackathon 
 
 - Seema Rao @artlust : on setting goals when working with data
-- Christophe Buffet @cpjfb : java-based text-mining
+- Christophe Buffet @cpjfb : on using Java for text-mining
 - Jeff Steward @jeffssteward : on Harvard Art Museums’ [Suns Explorer](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html) ?
+- Chad Weinard @caw_ : on releasing The Williams College Museum of Art collection data [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8) ?
 
 ## People to involve
 
@@ -128,5 +129,6 @@ Either:
 - Giorgia Lupi — [Dear Data has been acquired by MoMA, but this isn’t what we are most excited about.](https://medium.com/@giorgialupi/dear-data-has-been-acquired-by-moma-but-this-isnt-what-we-are-most-excited-about-bdaa3376d9db)
 - Elina Sairanen — [What Does Data Have to Do with It?](https://medium.com/digital-moma/what-does-data-have-to-do-with-it-5f4c1d95da14)
 - Keir Winesmith and Anna Carey — [Why Build an API for a Museum Collection?](https://www.sfmoma.org/read/why-build-api-museum-collection/)
+-  Chad Weinard — [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8)
 
 
