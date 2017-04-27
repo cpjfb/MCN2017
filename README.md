@@ -68,11 +68,11 @@ Either:
 
 ## Lightning talks and expression of interest to participate in this hackathon 
 
-- Seema Rao @artlust : on setting goals when working with data
-- Christophe Buffet @cpjfb : on using Java for text-mining
-- Jeff Steward @jeffssteward : on Harvard Art Museums’ [Suns Explorer](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html) ?
-- Chad Weinard @caw_ : on releasing The Williams College Museum of Art collection data [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8) ?
-- Jeffrey Inscho @jinscho and the @CMP_studio space/team
+- [Seema Rao](https://twitter.com/artlust) : on setting goals when working with data
+- [Christophe Buffet](https://twitter.com/cpjfb) : on using Java for text-mining
+- [Jeff Steward](https://twitter.com/jeffssteward) : on Harvard Art Museums’ [Suns Explorer](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html) ?
+- [Chad Weinard](https://twitter.com/caw_) : on releasing The Williams College Museum of Art collection data [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8) ?
+- [Jeffrey Inscho](https://twitter.com/jinscho) and the [CMP_studio](https://twitter.com/CMP_studio) space/team
 
 ## People to involve
 
