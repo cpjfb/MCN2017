@@ -11,7 +11,7 @@ The ideal would be to involve a local museum.
 
 # #OpenAccess, now what? -- half-day data hackathon proposal for #MCN2017
 
-> This year MCN will focus on how museums can use technology to innovate and emphasize transparency, individual action, and institutional bravery.
+> This year MCN will focus on how museums can use technology to innovate and emphasize transparency, individual action, and institutional bravery. (from the MCN2017 call for proposals)
 
 ## Title: #OpenAccess, now what?
 
@@ -130,6 +130,6 @@ In the afternoon:
 
 - George Oates — on the [MoMA Exhibition Spelunker](https://goodformandspectacle.wordpress.com/2017/01/26/new-work-moma-exhibition-spelunker/)
 - Giorgia Lupi — [Dear Data has been acquired by MoMA, but this isn’t what we are most excited about.](https://medium.com/@giorgialupi/dear-data-has-been-acquired-by-moma-but-this-isnt-what-we-are-most-excited-about-bdaa3376d9db)
-- Keir Winesmith and Anna Carey — [Why Build an API for a Museum Collection?]()https://www.sfmoma.org/read/why-build-api-museum-collection/)
+- Keir Winesmith and Anna Carey — [Why Build an API for a Museum Collection?](https://www.sfmoma.org/read/why-build-api-museum-collection/)
 
 
