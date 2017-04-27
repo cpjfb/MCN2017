@@ -18,7 +18,7 @@ A #MCN50/#MCN2017 data hackathon for museum technologists @MuseumCN.
 
 ## Format
 
-- a full day or half-day hackathon before the conference
+- a half-day hackathon before the conference (or should it be a full day?)
 - a follow-up session during the conference to present the results
 
 in [others](http://mcn.edu/category-unpacked-mcn2017-call-proposals/) category
@@ -27,7 +27,7 @@ in [others](http://mcn.edu/category-unpacked-mcn2017-call-proposals/) category
 
 This is a hands-on data crunching session.
 
-This isn't a workshop (there isn't a workshop leader) but it rather takes the shape of a hackathon where all participants share tips and techniques and produce a few stunning presentations by the end of the day.
+This isn't a workshop (there isn't one workshop leader, each  participant is bringing and learning something) but it rather takes the shape of a hackathon where all participants share tips and techniques and produce a few stunning presentations by the end of the day.
 
 Some results could be presented in a session later during the conference.
 
@@ -54,11 +54,8 @@ Either:
 
 ## How?
 
-In the morning:
-- a series of lightning talks where participants present tools or techniques they use, and how they use them, to feed the discussion.
-
-In the afternoon:
-- groups choose to apply some of these tools and techniques to a dataset
+- a series of short lightning talks where participants present tools or techniques they use, and how they use them, to feed the discussion
+- participants/groups choose to apply some of these tools and techniques to a dataset
 
 
 ## Who?
