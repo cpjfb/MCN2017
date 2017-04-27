@@ -38,6 +38,8 @@ Some results could be presented in a session later during the conference.
 
 - Data-led storytelling => Can data help you decide where to focus your interpretation efforts?
 
+- Data-backed storytelling => How can data not lead but strengthen and support your narratives? 
+
 - Accessibility => How can you increase accessibility with big data and machine learning? (eg. reducing costs of translations)
 
 - Strategy/etc => What do you get from "opening" your collection? Feedback from institutions that have just done it.
