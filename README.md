@@ -126,6 +126,7 @@ Either:
 
 - George Oates — on the [MoMA Exhibition Spelunker](https://goodformandspectacle.wordpress.com/2017/01/26/new-work-moma-exhibition-spelunker/)
 - Giorgia Lupi — [Dear Data has been acquired by MoMA, but this isn’t what we are most excited about.](https://medium.com/@giorgialupi/dear-data-has-been-acquired-by-moma-but-this-isnt-what-we-are-most-excited-about-bdaa3376d9db)
+- Elina Sairanen — [What Does Data Have to Do with It?](https://medium.com/digital-moma/what-does-data-have-to-do-with-it-5f4c1d95da14)
 - Keir Winesmith and Anna Carey — [Why Build an API for a Museum Collection?](https://www.sfmoma.org/read/why-build-api-museum-collection/)
 
 
