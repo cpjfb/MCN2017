@@ -123,6 +123,7 @@ Either:
 - FiveThirtyEight's view on MoMA's collection: [A Nerd’s Guide To The 2,229 Paintings At MoMA](https://fivethirtyeight.com/features/a-nerds-guide-to-the-2229-paintings-at-moma/) by [Oliver Roeder](https://twitter.com/ollie)
 - [MoMA Exhibition Spelunker](http://spelunker.moma.org/) by [Good, Form & Spectacle](https://twitter.com/goodformand)
 - about Jeff Steward’s “Suns Explorer” for Harvard Art Museums: [When big data meets art appreciation](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html)
+- [Data Visualization Workshop Series at NCSU Libraries](https://ncsu-libraries.github.io/data-viz-workshops/)
 
 # Further reading
 
