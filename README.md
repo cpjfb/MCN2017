@@ -102,6 +102,7 @@ Either:
 - [Collection API - Science Museum Group](https://group.sciencemuseum.org.uk/about-us/collection/api/)
 - [Rijksmuseum API](https://www.rijksmuseum.nl/en/api)
 - [Walters Art Museum Collections API](http://api.thewalters.org/)
+- [Statens Museum for Kunst](http://solr.smk.dk/)
 - and many more
 - CHECK if there is a collection API for the Barnes? [Barnes Foundation](https://github.com/BarnesFoundation)
 
