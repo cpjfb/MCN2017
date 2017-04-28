@@ -38,6 +38,8 @@ Some results could be presented in a session later during the conference.
 
 - Data-led storytelling => Can data help you decide where to focus your interpretation efforts?
 
+- Data-backed storytelling => How can data not lead but strengthen and support your narratives? 
+
 - Accessibility => How can you increase accessibility with big data and machine learning? (eg. reducing costs of translations)
 
 - Strategy/etc => What do you get from "opening" your collection? Feedback from institutions that have just done it.
@@ -70,8 +72,8 @@ Either:
 
 - [Seema Rao](https://twitter.com/artlust) : on setting goals when working with data
 - [Christophe Buffet](https://twitter.com/cpjfb) : on using Java for text-mining
-- [Jeff Steward](https://twitter.com/jeffssteward) : on Harvard Art Museums’ [Suns Explorer](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html) ?
-- [Chad Weinard](https://twitter.com/caw_) : on releasing The Williams College Museum of Art collection data [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8)
+- [Jeff Steward](https://twitter.com/jeffssteward) : on Harvard Art Museums’ statistical landscapes (see [Suns Explorer](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html), [Collection Activity](http://magazine.harvardartmuseums.org/article/2013/05/16/reimagining-collections-data), [Collection Terrains](https://vimeo.com/103130420))
+- [Chad Weinard](https://twitter.com/caw_) : on releasing The Williams College Museum of Art collection data (see [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8))
 - [Jeffrey Inscho](https://twitter.com/jinscho) and the [CMP_studio](https://twitter.com/CMP_studio) space/team
 
 ## People to involve
@@ -133,6 +135,6 @@ Either:
 - Giorgia Lupi — [Dear Data has been acquired by MoMA, but this isn’t what we are most excited about.](https://medium.com/@giorgialupi/dear-data-has-been-acquired-by-moma-but-this-isnt-what-we-are-most-excited-about-bdaa3376d9db)
 - Elina Sairanen — [What Does Data Have to Do with It?](https://medium.com/digital-moma/what-does-data-have-to-do-with-it-5f4c1d95da14)
 - Keir Winesmith and Anna Carey — [Why Build an API for a Museum Collection?](https://www.sfmoma.org/read/why-build-api-museum-collection/)
--  Chad Weinard — [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8)
+- Chad Weinard — [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8)
 
 
