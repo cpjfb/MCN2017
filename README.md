@@ -71,7 +71,7 @@ Either:
 - [Seema Rao](https://twitter.com/artlust) : on setting goals when working with data
 - [Christophe Buffet](https://twitter.com/cpjfb) : on using Java for text-mining
 - [Jeff Steward](https://twitter.com/jeffssteward) : on Harvard Art Museums’ [Suns Explorer](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html) ?
-- [Chad Weinard](https://twitter.com/caw_) : on releasing The Williams College Museum of Art collection data [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8) ?
+- [Chad Weinard](https://twitter.com/caw_) : on releasing The Williams College Museum of Art collection data [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8)
 - [Jeffrey Inscho](https://twitter.com/jinscho) and the [CMP_studio](https://twitter.com/CMP_studio) space/team
 
 ## People to involve
@@ -125,7 +125,7 @@ Either:
 - about Jeff Steward’s “Suns Explorer” for Harvard Art Museums: [When big data meets art appreciation](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html)
 - [Data Visualization Workshop Series at NCSU Libraries](https://ncsu-libraries.github.io/data-viz-workshops/)
 
-# Further reading
+## Further reading
 
 - George Oates — on the [MoMA Exhibition Spelunker](https://goodformandspectacle.wordpress.com/2017/01/26/new-work-moma-exhibition-spelunker/)
 - Giorgia Lupi — [Dear Data has been acquired by MoMA, but this isn’t what we are most excited about.](https://medium.com/@giorgialupi/dear-data-has-been-acquired-by-moma-but-this-isnt-what-we-are-most-excited-about-bdaa3376d9db)
