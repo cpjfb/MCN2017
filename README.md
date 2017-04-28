@@ -104,6 +104,7 @@ Either:
 - [Rijksmuseum API](https://www.rijksmuseum.nl/en/api)
 - [Walters Art Museum Collections API](http://api.thewalters.org/)
 - [Statens Museum for Kunst](http://solr.smk.dk/)
+- [Europeana APIs](http://labs.europeana.eu/api) (Europeana currently offers four APIs)
 - and many more
 - CHECK if there is a collection API for the Barnes? [Barnes Foundation](https://github.com/BarnesFoundation)
 
