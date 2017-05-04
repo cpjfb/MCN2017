@@ -1,12 +1,3 @@
-Many institutions have been releasing their collections on GitHub and sharing APIs over the last few years.
-
-I'd like to propose a hackathon format where museum technologists can get their hands on real-life datasets from other museums and share their experience dealing with open data.
-
-I recently had some spare time in between projects and have taken a deep interest in text-mining and data-mining using Java, Python and R. I would be excited to take part in something about this during MCN.
-
-The ideal would be to involve a local museum. 
-
-
 # #OpenAccess, now what? -- half-day data hackathon proposal for #MCN2017
 
 > This year MCN will focus on how museums can use technology to innovate and emphasize transparency, individual action, and institutional bravery. (from the MCN2017 call for proposals)
