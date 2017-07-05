@@ -114,12 +114,12 @@ Either:
 
 ## Dataviz examples
 
-- "[Cool stuff made with cultural heritage APIs](http://museum-api.pbworks.com/w/page/21933412/Cool%20stuff%20made%20with%20cultural%20heritage%20APIs)"
+- [Cool stuff made with cultural heritage APIs](http://museum-api.pbworks.com/w/page/21933412/Cool%20stuff%20made%20with%20cultural%20heritage%20APIs) - A very big list of projects using  using open data and cultural heritage APIs
 - FiveThirtyEight's view on The Met's collection: [An Excavation Of One Of The World’s Greatest Art Collections](http://fivethirtyeight.com/features/an-excavation-of-one-of-the-worlds-greatest-art-collections/) by [Oliver Roeder](https://twitter.com/ollie)
 - FiveThirtyEight's view on MoMA's collection: [A Nerd’s Guide To The 2,229 Paintings At MoMA](https://fivethirtyeight.com/features/a-nerds-guide-to-the-2229-paintings-at-moma/) by [Oliver Roeder](https://twitter.com/ollie)
-- [120kMoMA - A data visualization study of The Museum of Modern Art collection dataset of 123,919 records](https://medium.com/@WallHelen/120kmoma-ae298a2a57b7) by [Helen D. Wall](https://medium.com/@WallHelen)
-- [120kMoMA peak years — A data visualization study of years information in The Museum of Modern Art Collection dataset](https://medium.com/@WallHelen/120kmoma-peak-years-80b9c55fc734) by [Helen D. Wall](https://medium.com/@WallHelen)
-- [TateData peak years — A data visualization study of years information in The Tate Collection dataset and a comparison with the MoMA Collection](https://medium.com/@WallHelen/tatedata-8b6742c7bf6d) by [Helen D. Wall](https://medium.com/@WallHelen)
+- [120kMoMA](https://medium.com/@WallHelen/120kmoma-ae298a2a57b7) - A data visualization study of The Museum of Modern Art collection dataset of 123,919 records by [Helen D. Wall](https://medium.com/@WallHelen)
+- [120kMoMA peak years](https://medium.com/@WallHelen/120kmoma-peak-years-80b9c55fc734) — A data visualization study of **years information** in The Museum of Modern Art Collection dataset by [Helen D. Wall](https://medium.com/@WallHelen)
+- [TateData peak years](https://medium.com/@WallHelen/tatedata-8b6742c7bf6d) — A data visualization study of years information in The Tate Collection dataset and a comparison with the MoMA Collection by [Helen D. Wall](https://medium.com/@WallHelen)
 - [MoMA Exhibition Spelunker](http://spelunker.moma.org/) by [Good, Form & Spectacle](https://twitter.com/goodformand)
 - about Jeff Steward’s “Suns Explorer” for Harvard Art Museums: [When big data meets art appreciation](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html)
 - [Data Visualization Workshop Series at NCSU Libraries](https://ncsu-libraries.github.io/data-viz-workshops/)
