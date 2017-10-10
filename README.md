@@ -9,7 +9,7 @@ A #MCN50/#MCN2017 data hackathon for museum technologists @MuseumCN.
 
 ## Format
 
-- a half-day hackathon before the conference (or should it be a full day?)
+- a half-day hackathon before the conference
 - a follow-up session during the conference to present the results
 
 in [others](http://mcn.edu/category-unpacked-mcn2017-call-proposals/) category
@@ -20,7 +20,7 @@ This is a hands-on data crunching session.
 
 This isn't a workshop (there isn't one workshop leader, each  participant is bringing and learning something) but it rather takes the shape of a hackathon where all participants share tips and techniques and produce a few stunning presentations by the end of the day.
 
-Some results could be presented in a session later during the conference.
+Some results will be presented in a session during the conference.
 
 
 ## Take-aways for "datathon" participants
@@ -40,10 +40,10 @@ One of the principles of data science is that it has to be reproducible. So, one
 
 ## When?
 
-Either:
-- a half-day or a full day on workshop day, before the conference officially starts
-- or the week-end before MCN50 in Pittsburgh, if a local museum gets involved
+- Hackathon from 1:00 PM to 5:00 PM Tuesday, November 07, 2017, at [CMP_studio](https://twitter.com/CMP_studio)
+  **IMPORTANT : as the Carnegie Museums of Art and Natural History are closed on Tuesdays, please confirm to get access to CMP Studio**
 
+- Presentation of the results from 11:30 AM to 12:30 PM Friday, November 10, 2017 at #MCN2017.
 
 ## How?
 
