@@ -84,6 +84,7 @@ One of the principles of data science is that it has to be reproducible. So, one
 - [Tate](https://github.com/tategallery/collection)
 - [ACMI](https://github.com/ACMILabs/collection)
 - [ACMI Historic Film Screening Data](https://github.com/ACMILabs/historic-film-screenings-data)
+- Yale Center for British Art [IIIF top-level collection](https://manifests.britishart.yale.edu/collection/top)
 - others can be added to this list, cf. [gitMuseum](https://github.com/BritishMuseum/gitMuseum)
 
 ## Museums Collections APIs
