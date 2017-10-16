@@ -62,7 +62,7 @@ One of the principles of data science is that it has to be reproducible. So, one
 ## Lightning talks and expression of interest to participate in this hackathon 
 
 - [Seema Rao](https://twitter.com/artlust) : on setting goals when working with data
-- [Christophe Buffet](https://twitter.com/cpjfb) : on using Java for text-mining
+- [Christophe Buffet](https://twitter.com/cpjfb) : on using Java or [R](http://tidytextmining.com/) for text-mining
 - [Jeff Steward](https://twitter.com/jeffssteward) : on Harvard Art Museums’ statistical landscapes (see [Suns Explorer](https://www.bostonglobe.com/lifestyle/2017/04/13/when-big-data-meets-art-appreciation/HqeuVGv9qdm2PGJAeYAuZK/story.html), [Collection Activity](http://magazine.harvardartmuseums.org/article/2013/05/16/reimagining-collections-data), [Collection Terrains](https://vimeo.com/103130420))
 - [Chad Weinard](https://twitter.com/caw_) : on releasing The Williams College Museum of Art collection data (see [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8))
 - [Jeffrey Inscho](https://twitter.com/jinscho) and the [CMP_studio](https://twitter.com/CMP_studio) space/team
