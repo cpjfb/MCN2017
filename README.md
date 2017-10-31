@@ -137,5 +137,6 @@ One of the principles of data science is that it has to be reproducible. So, one
 - Elina Sairanen — [What Does Data Have to Do with It?](https://medium.com/digital-moma/what-does-data-have-to-do-with-it-5f4c1d95da14)
 - Keir Winesmith and Anna Carey — [Why Build an API for a Museum Collection?](https://www.sfmoma.org/read/why-build-api-museum-collection/)
 - Chad Weinard — [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8)
+- Shelley Bernstein - [Open Access at the Barnes](https://medium.com/barnes-foundation/open-access-at-the-barnes-e08daf2c5a33)
 
 
