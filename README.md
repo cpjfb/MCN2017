@@ -67,6 +67,7 @@ One of the principles of data science is that it has to be reproducible. So, one
 - [Chad Weinard](https://twitter.com/caw_) : on releasing The Williams College Museum of Art collection data (see [New Dimensions for Collections at WCMA](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8))
 - [Jeffrey Inscho](https://twitter.com/jinscho) and the [CMP_studio](https://twitter.com/CMP_studio) space/team
 - [Elena Villaespesa](https://twitter.com/elenustika) : on the evaluation of open access at the Met
+- [Tristan Roddis](https://twitter.com/tristan_roddis) : on term extraction using APIs: Clarifai, Google Vision API, Microsoft Computer Vision and IBM Watson.
 
 ## People to involve
 
