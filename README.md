@@ -1,4 +1,6 @@
-# #OpenAccess, now what? -- half-day data hackathon at #MCN2017
+# #OpenAccess, now what? #MCN2017-F17
+
+A half-day data hackathon and a presentation at #MCN2017
 
 > This year MCN will focus on how museums can use technology to innovate and emphasize transparency, individual action, and institutional bravery. (from the MCN2017 call for proposals)
 
