@@ -70,6 +70,7 @@ One of the principles of data science is that it has to be reproducible. So, one
 - [Tristan Roddis](https://twitter.com/tristan_roddis) : on term extraction using APIs: Clarifai, Google Vision API, Microsoft Computer Vision and IBM Watson.
 - [Kjell Olsen](https://github.com/kjell)
 - [Jeremy Tubbs](https://twitter.com/jeremytubbs)
+- [Nikhil Trivedi](https://twitter.com/nikhiltri)
 
 ## People to involve
 
