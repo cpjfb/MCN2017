@@ -101,7 +101,7 @@ One of the principles of data science is that it has to be reproducible. So, one
 - [API Collection of Cooper Hewitt, Smithsonian Design Museum](https://collection.cooperhewitt.org/api/)
 - [Brooklyn Museum Opencollection API](https://www.brooklynmuseum.org/opencollection/api)
 - [Collection API - Science Museum Group](https://group.sciencemuseum.org.uk/about-us/collection/api/)
-- [U.S. National Archives API] (https://github.com/usnationalarchives/Catalog-API?p=/research/search/help/using-opa-api.html)
+- [U.S. National Archives API](https://github.com/usnationalarchives/Catalog-API?p=/research/search/help/using-opa-api.html)
 - [Rijksmuseum API](https://www.rijksmuseum.nl/en/api)
 - [Walters Art Museum Collections API](http://api.thewalters.org/)
 - [Statens Museum for Kunst](http://solr.smk.dk/)
