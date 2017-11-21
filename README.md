@@ -73,6 +73,7 @@ One of the principles of data science is that it has to be reproducible. So, one
 - [Kjell Olsen](https://github.com/kjell)
 - [Jeremy Tubbs](https://twitter.com/jeremytubbs)
 - [Nikhil Trivedi](https://twitter.com/nikhiltri)
+- [Tina Shah](http://twitter.com/tshah/)
 - Misty Havens
 
 ## People to involve
